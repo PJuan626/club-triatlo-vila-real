@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Entrenamiento - Club Triatlón Vila-real</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="img/logo.png" alt="Club Triatlón Vila-real">
+      <h1>Club Triatlón Vila-real</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="quienes-somos.html">Quiénes somos</a></li>
+        <li><a href="calendario.html">Calendario</a></li>
+        <li><a href="entrenamiento.html">Entrenamiento</a></li>
+        <li><a href="noticias.html">Noticias</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Entrenamientos</h2>
+      <p>Descubre nuestros planes de entrenamiento para natación, ciclismo y carrera. ¡Hay niveles para todos!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Club Triatlón Vila-real. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
